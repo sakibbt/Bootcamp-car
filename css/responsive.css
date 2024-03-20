@@ -1,0 +1,269 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+
+
+.top-nav-section .top-nave-inner .top-left{
+    width: 68%;
+    padding-right: 0;
+}
+
+.top-nav-section .top-nave-inner .call {
+    padding: 7px 0px 0 7px;
+}
+
+.top-nav-section .top-nave-inner .mail {
+    padding: 7px 0 7px 7px;
+}
+
+.top-nav-section .top-nave-inner .top-right{
+    width: 32%;
+    padding-left: 0;
+}
+
+.top-nave-inner .social-icon ul {
+    padding: 21px 0px;
+}
+
+.top-nave-inner .social-icon ul li {
+    padding: 0px 5px;
+}
+
+.top-nave-inner .social-icon ul li a {
+    font-size: 18px;
+}
+
+
+.header-section {
+    padding: 5px 0;
+}
+
+.header-section .navbar .navbar-brand {
+    width: 80%;
+}
+
+.header-section .navbar .navbar-brand img {
+    width: 38%;
+}
+
+.header-section .navbar-toggler{
+    color: transparent !important;
+    background-color: white !important;
+    border: none !important;
+}
+
+
+.banner-section {
+    padding: 30px 0;
+}
+
+.banner-inner .title {
+    padding-top: 0;
+    text-align: center;
+}
+
+.banner-inner .title h1 {
+    padding: 20px 0 20px 0;
+    font-size: 35px;
+    line-height: 45px;
+}
+
+.banner-inner .title p {
+    padding-left: 30px;
+    padding-right: 30px;
+    line-height: 25px;
+    font-size: 15px;
+    padding-bottom: 30px;
+}
+
+.banner-inner .img {
+    margin-top: 15px;
+}
+
+.banner-inner .img img {
+    width: 100%;
+    margin-left: 0;
+}
+
+
+.card-section {
+    padding: 60px 0;
+}
+
+.card-section .title {
+    padding-bottom: 60px;
+}
+
+.card-section .title .line img {
+    width: 30%;
+}
+
+.card-section .title p {
+    padding: 0 20px;
+}
+
+.card-section .card {
+    margin-bottom: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+.dealer-inner {
+    text-align: center;
+}
+
+.dealer-inner h2 {
+    padding: 15px 0;
+}
+
+.dealer-inner p {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.dealer-inner .img {
+    padding-top: 40px;
+}
+
+
+.feature-section {
+    padding: 60px 0;
+}
+
+.feature-section .title h2 {
+    font-size: 24px;
+    padding: 0 10px;
+}
+
+.feature-section .title .line img {
+    width: 30%;
+}
+
+.feature-section .title p {
+    padding: 0 30px;
+}
+
+.feature-section .features {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.features p {
+    padding: 0 20px;
+}
+
+
+.form-section {
+    padding: 60px 0;
+}
+
+.form-section .form-inner {
+    margin: 0 20px;
+}
+
+.form-inner h2 {
+    font-size: 26px;
+}
+
+.form-inner left input:hover {
+    outline: none;
+}
+
+.form-inner right textarea:hover {
+    outline: none;
+}
+
+
+.footer-section {
+    padding: 60px 0 0 0;
+}
+
+.footer-inner .logo {
+    text-align: center;
+}
+
+.footer-inner p {
+    padding-bottom: 15px;
+    padding-right: 0;
+    text-align: center;
+}
+
+.footer-inner .social-icon {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.footer-inner .title {
+    text-align: center;
+    width: 366px;
+    margin: 0 auto;
+    padding-bottom: 60px;
+}
+
+
+.copyright {
+    font-size: 12px;
+}
+
+
+
